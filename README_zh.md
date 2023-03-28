@@ -19,5 +19,5 @@
 ![](https://github.com/servicestage-demo/weathermap/blob/master/weathermap.JPG)
 
 FYI:
-1、 weathermapweb 端口号3000
-2、 edge-service 端口号3010
+1. weathermapweb 端口号3000
+2. edge-service 端口号3010
