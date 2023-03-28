@@ -17,3 +17,7 @@
 天气预报运行起来后的界面如下：  
   
 ![](https://github.com/servicestage-demo/weathermap/blob/master/weathermap.JPG)
+
+FYI:
+1、 weathermapweb 端口号3000
+2、 edge-service 端口号3010
